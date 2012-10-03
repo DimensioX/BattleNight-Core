@@ -7,11 +7,11 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+import me.limebyte.battlenight.core.battle.Team;
+import me.limebyte.battlenight.core.battle.classes.ArmourType;
 import me.limebyte.battlenight.core.managers.PlayerManager;
 import me.limebyte.battlenight.core.managers.TrackManager;
 import me.limebyte.battlenight.core.managers.TrackManager.Track;
-import me.limebyte.battlenight.core.Battle.Team;
-import me.limebyte.battlenight.core.Battle.classes.ArmourType;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

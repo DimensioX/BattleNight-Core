@@ -2,10 +2,10 @@ package me.limebyte.battlenight.core;
 
 import java.util.logging.Logger;
 
-import me.limebyte.battlenight.core.Battle.Battle;
-import me.limebyte.battlenight.core.Battle.Team;
-import me.limebyte.battlenight.core.Battle.Team.TeamColour;
-import me.limebyte.battlenight.core.Battle.modes.TeamDeathMatch;
+import me.limebyte.battlenight.core.battle.Battle;
+import me.limebyte.battlenight.core.battle.Team;
+import me.limebyte.battlenight.core.battle.Team.TeamColour;
+import me.limebyte.battlenight.core.battle.modes.TeamDeathMatch;
 import me.limebyte.battlenight.core.configuration.ConfigurationManager;
 import me.limebyte.battlenight.core.managers.ClassManager;
 import me.limebyte.battlenight.core.managers.CommandManager;

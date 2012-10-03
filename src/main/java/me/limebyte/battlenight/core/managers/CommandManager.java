@@ -2,7 +2,7 @@ package me.limebyte.battlenight.core.managers;
 
 import me.limebyte.battlenight.core.BattleNight;
 import me.limebyte.battlenight.core.Util;
-import me.limebyte.battlenight.core.Battle.arenas.Waypoint.WaypointType;
+import me.limebyte.battlenight.core.battle.arenas.Waypoint.WaypointType;
 import me.limebyte.battlenight.core.managers.TrackManager.Track;
 
 import org.bukkit.command.Command;

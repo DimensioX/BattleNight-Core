@@ -10,7 +10,7 @@ import java.util.Random;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 
-import me.limebyte.battlenight.core.Battle.classes.Class;
+import me.limebyte.battlenight.core.battle.classes.Class;
 import me.limebyte.battlenight.core.configuration.Config;
 import me.limebyte.battlenight.core.configuration.ConfigurationManager;
 

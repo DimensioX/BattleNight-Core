@@ -1,4 +1,4 @@
-package me.limebyte.battlenight.core.Battle;
+package me.limebyte.battlenight.core.battle;
 
 import java.util.ArrayList;
 import java.util.List;

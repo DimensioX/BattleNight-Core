@@ -1,7 +1,7 @@
-package me.limebyte.battlenight.core.Battle.modes;
+package me.limebyte.battlenight.core.battle.modes;
 
 import me.limebyte.battlenight.core.BattleNight;
-import me.limebyte.battlenight.core.Battle.Battle;
+import me.limebyte.battlenight.core.battle.Battle;
 import me.limebyte.battlenight.core.managers.PlayerManager;
 
 import org.bukkit.entity.EntityType;

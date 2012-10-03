@@ -1,4 +1,4 @@
-package me.limebyte.battlenight.core.Battle.classes;
+package me.limebyte.battlenight.core.battle.classes;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;

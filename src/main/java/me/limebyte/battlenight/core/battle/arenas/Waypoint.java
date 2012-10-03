@@ -1,4 +1,4 @@
-package me.limebyte.battlenight.core.Battle.arenas;
+package me.limebyte.battlenight.core.battle.arenas;
 
 import me.limebyte.battlenight.core.Util;
 import me.limebyte.battlenight.core.configuration.Config;

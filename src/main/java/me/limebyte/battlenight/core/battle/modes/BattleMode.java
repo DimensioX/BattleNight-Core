@@ -1,4 +1,4 @@
-package me.limebyte.battlenight.core.Battle.modes;
+package me.limebyte.battlenight.core.battle.modes;
 
 import org.bukkit.entity.Player;
 
